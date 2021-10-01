@@ -22,8 +22,8 @@ function preload(){
   boy_right=loadImage("boy_right.jpeg");
   boy_left=loadImage("boy_left.jpeg");
 
-  ghost_img=loadImage("ghost1.png");
-  ghost2_img=loadImage("ghost2.png");
+  ghost_img=loadImage("Ghost1.png");
+  ghost2_img=loadImage("Ghost2.png");
 
   gameOver_img=loadImage("gameOver.png");
   restart_img=loadImage("restart.png");
